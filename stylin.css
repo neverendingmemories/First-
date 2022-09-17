@@ -1,9 +1,27 @@
+body {
+    background-color: #594e14;
+}
 h1 {
-    color: olivedrab;
+    color: #ff1a00;
     text-decoration:underline;
+    text-align: center;
+    font-size: 40px;
+    
+    }
 
+
+
+    img {
+        border: inset ;
+        border-color: #ff1a00;
+        border-radius:  4em;
+        margin: auto;
+        display:block;
+        border-width: 10px;
     }
 
 h2 {
-    color: red;
-    }
+    color:#c7c9c9;
+    text-align: center;
+    
+}
