@@ -25,3 +25,24 @@ h2 {
     text-align: center;
     
 }
+
+.left {
+color:yellow;
+background-color: rgb(230, 183, 113);
+top:100px;
+left:0;
+z-index: 100;
+margin-right: 445px;
+border:double;
+border-radius:3em;
+border-right:dotted;
+border-left: dotted;
+}
+h3 {
+    color:black;
+    font-size:22px;
+}
+h4 {
+    color: black;
+    text-align:start;
+}
